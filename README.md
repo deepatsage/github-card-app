@@ -1,19 +1,20 @@
-# Getting Started with React Class Component
+#
 This SPA demo how to use React class components to build a simple GitHub Card application.
-It allows you search and add your git hub user id and add as Card in the List.
+It allows you to search your git hub user id and add as a Card in the List.
+![image](https://user-images.githubusercontent.com/57107115/140923380-490d7bc6-2035-4ecd-af51-04bd30c2116f.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+## Quick Start
 
-### `npm start`
+Make sure you have these installed:
 
-Runs the app in the development mode.\
-Open [http://localhost:3031](http://localhost:3031) to view it in the browser.
+- [Node 10](http://nodejs.org) or newer (To check your version: `npm -v`)
+- [Git](http://git-scm.com)
 
-## Learn More
+Then, run these commands on the command line:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+npm install
+npm start
+```
 
